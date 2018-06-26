@@ -1,0 +1,20 @@
+Lab 05-DAWA - Drives para Node.js de MongoDB
+Alumno: Bustínza Gamero Jack Tomas
+Especialidad: C-15
+Grupo: B
+
+-------------------------------------------------------------------------
+Ejercicio 3.5
+	app.get('/producto', producto.show); ----> READ
+	app.post('/producto', producto.create); ----> CREATE
+	app.post('/producto/update', producto.update); ----> UPDATE
+	app.post('/producto/delete', producto.delete); ----> DELETE
+Ejercicio 3.9
+	Captura GET : captura_ejer3.9.PNG
+
+
+
+
+
+
+
